@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Interview Prep Bot**
  
- 🌱 I’m currently learning **Cloud Computing, IAM Concepts**
+ 🌱 I’m currently learning **Cloud Computing and IAM Concepts**
 
 💬 Ask me about **Python, Java, MySql**
 
