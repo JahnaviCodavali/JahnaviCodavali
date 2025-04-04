@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/jahnavi-codavali-8463a8203" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/file/d/1Nl5veuYc3ckSD_HuDXgfc5EwuGLNky6D/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1zFpvw_YkHZ12HSZxLor5tNe_1vXN-my_/view" target="_blank">
   <img src="https://img.shields.io/badge/Resume-e40078?style=for-the-badge" target="_blank" />
   </a>
 
@@ -40,8 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,c,java,mysql" />
 </div>
 
 
