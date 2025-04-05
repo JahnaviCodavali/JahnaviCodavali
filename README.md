@@ -4,7 +4,7 @@
 <img alt="gif" align="right" width="300" src="https://i.pinimg.com/originals/f5/5f/ea/f55feafb705a2ac35e57715ed9381fcd.gif">
 <br/>
 
-<h3 align="center">AI & Cybersecurity Enthusiast</h3>
+<h3 align="center">IT Professional with a Passion for AI and Cybersecurity</h3>
 
 <br/>
 
@@ -16,13 +16,19 @@
 
 💬 Ask me about **Python, Java, MySql**
 
- </div>
- 
-<div align="left"> 
-  <a href="mailto:jahnaviii.932@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="left">
+<h2 align="left">Connect with me:</h2>
+  <!-- Gmail Icon with Mailto Link -->
+  <a href="mailto:jahnaviii.932@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/jahnavi-codavali-8463a8203" target="_blank">
+
+  <!-- LinkedIn Icon with Profile Link -->
+  <a href="https://www.linkedin.com/in/jahnavi-codavali-8463a8203/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+  </a>
+</div>
+  <!---a href="https://www.linkedin.com/in/jahnavi-codavali-8463a8203" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!--- a href="https://drive.google.com/file/d/1zFpvw_YkHZ12HSZxLor5tNe_1vXN-my_/view" target="_blank">
@@ -47,7 +53,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div align="center">
 
-## 📊 GitHub Stats:
+<!--- ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JahnaviCodavali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JahnaviCodavali&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviCodavali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
