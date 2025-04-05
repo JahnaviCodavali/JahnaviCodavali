@@ -17,7 +17,7 @@
 💬 Ask me about **Python, Java, MySql**
 
 <div align="center">
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">             Connect with me:</h2>
   <!-- Gmail Icon with Mailto Link -->
   <a href="mailto:jahnaviii.932@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" />
