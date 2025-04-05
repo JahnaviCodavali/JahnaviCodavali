@@ -4,7 +4,7 @@
 <img alt="gif" align="right" width="300" src="https://i.pinimg.com/originals/f5/5f/ea/f55feafb705a2ac35e57715ed9381fcd.gif">
 <br/>
 
-<h3 align="center">IT Professional with a Passion for AI and Cybersecurity</h3>
+<h3 align="left">IT Professional with a Passion for AI and Cybersecurity</h3>
 
 <br/>
 
@@ -16,8 +16,8 @@
 
 💬 Ask me about **Python, Java, MySql**
 
-<div align="center">
-<h2 align="center">             Connect with me:</h2>
+<div align="left">
+<h2 align="left">Connect with me</h2>
   <!-- Gmail Icon with Mailto Link -->
   <a href="mailto:jahnaviii.932@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" />
@@ -43,9 +43,9 @@
 
  <img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,c,java,mysql" />
 </div>
 
