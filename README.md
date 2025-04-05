@@ -4,8 +4,7 @@
 <img alt="gif" align="right" width="300" src="https://i.pinimg.com/originals/f5/5f/ea/f55feafb705a2ac35e57715ed9381fcd.gif">
 <br/>
 
-<h3 align="left">IT Professional with a Passion for AI and Cybersecurity</h3>
-
+<h3 align="left"> IT Professional with a Passion for AI and Cybersecurity</h3>
 <br/>
 
 <div align="left">
@@ -43,7 +42,7 @@
 
  <img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">Languages & Tools</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,c,java,mysql" />
